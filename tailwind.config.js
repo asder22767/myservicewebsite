@@ -24,7 +24,7 @@ module.exports = {
         opensans: "Open Sans",
       },
       backgroundImage: {
-        herobackground: "url('./assets/images/herobg.png')",
+        herobackground: "url('./assets/images/bg.jpg')",
       },
       colors: {
         navcolor: "#141B2D",

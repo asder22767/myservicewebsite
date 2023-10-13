@@ -1,7 +1,4 @@
 import logo from "./logo.svg";
-import herobg from "./herobg.jpg";
-import searchIcon from "./searchIcon.svg";
-import locationicon from "./location.svg";
-import herodots from "./herodots.svg";
+import bg from "./bg.jpg";
 
-export { logo, herobg, searchIcon, locationicon, herodots };
+export { logo, bg };
